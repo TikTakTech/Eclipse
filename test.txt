@@ -1,2 +1,0 @@
-Write-Output "Hello Man!"
-Write-output "Your argument is $key"
